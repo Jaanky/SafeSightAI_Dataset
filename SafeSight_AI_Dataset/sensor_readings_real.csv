@@ -1,0 +1,15 @@
+record_id,source,is_synthetic,session,location_class,hazard_type,location_name,acc_x_ms2,acc_y_ms2,acc_z_ms2,acc_magnitude_ms2,tilt_pitch_deg,gyro_x_rads,gyro_y_rads,gyro_z_rads,gyro_magnitude_rads,transcription_flag
+SS-R01,real,0,A,stairs,level_change,Outdoor stairs,-0.02,9.66,-0.28,9.664,-1.7,0.056,-0.044,-0.012,0.072,
+SS-R02,real,0,A,flat_ground,none,Entrance,-0.06,9.57,-0.45,9.581,-2.7,-0.021,0.003,0.01,0.023,
+SS-R03,real,0,A,flat_ground,none,Ground,0.09,9.53,0.27,9.534,1.6,0.122,-0.062,0.006,0.137,
+SS-R04,real,0,A,stairs,level_change,Stair 1 (near warden),0.29,8.19,4.95,9.574,31.1,0.019,-0.11,0.004,0.112,gyro_y may be -0.011; verify
+SS-R05,real,0,A,washing_area,wet_surface,Near filter 1 (washing area),0.91,6.36,6.29,8.991,44.7,0.083,0.161,0.057,0.19,
+SS-R06,real,0,A,balcony,open_edge,Washing area (balcony),-0.35,9.6,1.94,9.8,11.4,0.056,-0.063,0.048,0.097,
+SS-R07,real,0,A,outdoor_obstacle_area,obstacle_uneven,Outdoor area (hanging clothes),-0.24,9.05,3.56,9.728,21.5,-0.018,-0.017,0.002,0.025,acc_z read as 3.56 (could be 8.56); verify
+SS-R08,real,0,A,stairs,level_change,Stair 2 (opp mess up),-0.04,9.13,3.05,9.626,18.5,0.62,-0.064,0.002,0.623,gyro_x may be 0.062; verify
+SS-R09,real,0,A,stairs,level_change,Stair 3 (opp mess down),0.18,7.27,5.85,9.333,38.8,0.279,0.036,-0.051,0.286,gyro_z may be -0.054; verify
+SS-R10,real,0,A,outdoor_obstacle_area,obstacle_uneven,Outside mess (cement block),-0.51,9.56,1.14,9.641,6.8,-0.086,-0.042,0.024,0.099,
+SS-R11,real,0,B,door_threshold,threshold_step,Hostel door with chair,-0.28,9.5,1.26,9.587,7.6,-0.014,0.013,0.025,0.031,
+SS-R12,real,0,B,door_threshold,threshold_step,Table & door,-0.16,9.76,0.61,9.78,3.6,-0.047,-0.079,-0.017,0.093,
+SS-R13,real,0,B,balcony,open_edge,Balcony,0.15,9.55,1.19,9.625,7.1,0.094,0.014,-0.014,0.096,
+SS-R14,real,0,B,flat_ground,none,Corridor,-0.17,9.66,-0.42,9.671,-2.5,,,,,gyroscope not recorded

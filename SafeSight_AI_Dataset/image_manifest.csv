@@ -1,0 +1,17 @@
+image_id,original_filename,scene_description,time_of_day,hazard_type,hazard_or_feature_tags,privacy_action_before_upload
+SS_IMG_01.jpeg,WhatsApp_Image_2026-11-05_at_12_42_43_PM.jpeg,"Arched pedestrian bridge with steel railings over a drain, granite slab path",day,level_change,bridge / raised arched path,ok
+SS_IMG_02.jpeg,WhatsApp_Image_2026-11-05_at_12_42_44_PM.jpeg,"Unpaved campus road with parked two-wheelers, steps at far end",day,obstacle_uneven,unpaved surface / vehicles on path,ok
+SS_IMG_03.jpeg,WhatsApp_Image_2026-11-05_at_12_42_48_PM.jpeg,"Cafe plaza with uneven stone slabs, kerb, raised planter, steps and scooter",day,obstacle_uneven,kerb / uneven paving / steps,blur person at right edge
+SS_IMG_04.jpeg,WhatsApp_Image_2026-11-05_at_12_42_49_PM.jpeg,Tree-lined road with kerbed footpath,day,none,road edge / kerb,ok
+SS_IMG_05.jpeg,WhatsApp_Image_2026-11-05_at_12_42_52_PM.jpeg,Indoor stairwell descending to gated electrical panel room,day,level_change,stairs down / electrical panel,ok
+SS_IMG_06.jpeg,WhatsApp_Image_2026-11-05_at_12_42_53_PM.jpeg,"Ramp with railing, loose concrete slab, uneven grass edge, floodlight glare",night,obstacle_uneven,ramp / uneven ground / glare,blur person in background
+SS_IMG_07.jpeg,WhatsApp_Image_2026-11-05_at_12_42_54_PM.jpeg,Indoor stairs going up with rubber mat and steel railing,day,level_change,stairs up,ok
+SS_IMG_08.jpeg,WhatsApp_Image_2026-11-05_at_12_42_55_PM.jpeg,"Grass area with drain channel, two concrete steps, clothes-drying stands",night,obstacle_uneven,drain / steps / low light,ok
+SS_IMG_09.jpeg,WhatsApp_Image_2026-11-05_at_12_42_56_PM-2.jpeg,Corridor ramp with grooved granite and wet-floor sign,night,wet_surface,ramp / wet floor,blur people in corridor
+SS_IMG_10.jpeg,WhatsApp_Image_2026-11-05_at_12_42_56_PM-3.jpeg,"Three granite steps at courtyard entrance, rubber mats, unfinished mud patch",day,level_change,steps / uneven ground,ok
+SS_IMG_11.jpeg,WhatsApp_Image_2026-11-05_at_12_42_56_PM.jpeg,"Paved path between hostel blocks with steps, rubber mat, clothes stands",night,threshold_step,path / steps / low light,ok
+SS_IMG_12.jpeg,WhatsApp_Image_2026-11-05_at_12_42_57_PM-2.jpeg,"Hostel entrance porch, paved forecourt, ramp, parked scooters",night,threshold_step,entrance / ramp,blur person at doorway
+SS_IMG_13.jpeg,WhatsApp_Image_2026-11-05_at_12_42_57_PM.jpeg,"Central courtyard with unpaved mud, manhole slabs, multi-storey blocks",night,obstacle_uneven,unpaved ground / manhole covers,ok
+SS_IMG_14.jpeg,WhatsApp_Image_2026-11-05_at_12_42_58_PM-2.jpeg,Upper-floor corridor with railing overlooking courtyard,day,open_edge,corridor / open edge,ok
+SS_IMG_15.jpeg,WhatsApp_Image_2026-11-05_at_12_42_58_PM-3.jpeg,"Upper-floor corridor, second angle",day,open_edge,corridor / open edge,ok
+SS_IMG_16.jpeg,WhatsApp_Image_2026-11-05_at_12_42_58_PM.jpeg,Stepped seating along compound wall with razor wire,night,level_change,wide steps / low light,ok (get permission for premises photos)

@@ -1,0 +1,7 @@
+location_class,hazard_type,n_total,n_real,n_synthetic,acc_y_mean,acc_z_mean,tilt_mean_deg,tilt_sd_deg,gyro_mag_mean
+balcony,open_edge,18,2,16,9.427,1.773,10.661,5.129,0.134
+door_threshold,threshold_step,18,2,16,9.505,1.039,6.244,6.261,0.127
+flat_ground,none,22,3,19,9.476,-0.075,-0.445,5.046,0.113
+outdoor_obstacle_area,obstacle_uneven,18,2,16,9.115,2.809,17.117,4.669,0.113
+stairs,level_change,30,4,26,8.228,3.803,24.81,18.735,0.166
+washing_area,wet_surface,14,1,13,7.017,6.376,42.279,6.979,0.15
